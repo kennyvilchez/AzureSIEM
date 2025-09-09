@@ -54,11 +54,10 @@ The project workflow includes:
      ```
      <img width="975" height="977" alt="image" src="https://github.com/user-attachments/assets/709b15a7-4554-4008-acee-5e6349a3aea3" />
 
-   - Created **analytic rules** for alerting on brute-force patterns.
 
 6. **Geolocation Analysis**  
    - Created a **Watchlist** for IP Geolocation enrichment.
-   - <img width="975" height="186" alt="image" src="https://github.com/user-attachments/assets/d25bbbd3-d4f3-40d6-b374-d48fb086be29" />
+   <img width="975" height="186" alt="image" src="https://github.com/user-attachments/assets/d25bbbd3-d4f3-40d6-b374-d48fb086be29" />
 
    - Generated an **Attack Map** to visualize attacker locations after 12 hours.
 <img width="975" height="379" alt="image" src="https://github.com/user-attachments/assets/62365741-6330-415e-be96-6f0f4efb06a8" />
