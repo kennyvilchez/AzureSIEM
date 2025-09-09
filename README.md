@@ -48,11 +48,6 @@ The project workflow includes:
 
 5. **Log Analysis in Microsoft Sentinel**  
    - Built custom queries in **KQL**:
-     ```kusto
-     SecurityEvent
-     | where EventID == 4625
-     | project TimeGenerated, Account, Computer, EventID, Activity, IpAddress
-     ```
      <img width="975" height="977" alt="image" src="https://github.com/user-attachments/assets/709b15a7-4554-4008-acee-5e6349a3aea3" />
 
 
