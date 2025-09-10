@@ -31,7 +31,7 @@ The project workflow includes:
 
 2. **Honeypot Configuration**  
    - Disabled **Windows Firewall** to ensure accessibility.
-   - <img width="975" height="730" alt="image" src="https://github.com/user-attachments/assets/ae801bf3-82cd-4b9f-b743-293567612b4a" />
+     <img width="975" height="730" alt="image" src="https://github.com/user-attachments/assets/ae801bf3-82cd-4b9f-b743-293567612b4a" />
 
    - Verified external connectivity by allowing all network traffic.
 <img width="975" height="405" alt="image" src="https://github.com/user-attachments/assets/22153a83-391a-482b-83e2-4e6fcc83ec44" />
